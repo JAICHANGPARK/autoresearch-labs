@@ -1,0 +1,6 @@
+[submodule "source/autoresearch"]
+	path = source/autoresearch
+	url = https://github.com/karpathy/autoresearch.git
+[submodule "source/nanochat"]
+	path = source/nanochat
+	url = https://github.com/karpathy/nanochat.git
